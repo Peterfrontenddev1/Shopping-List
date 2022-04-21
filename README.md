@@ -14,3 +14,4 @@ There should be at least 5 sub-arrays in the list.
 
 myList should be an array.
 The first elements in each of your sub-arrays should all be strings.
+The second elements in each of your sub-arrays should all be numbers.
